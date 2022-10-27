@@ -3,3 +3,4 @@
 
 Integrantes
 Jorge López Acosta
+Alfredo Martinez Hernandez
